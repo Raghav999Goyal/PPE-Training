@@ -4,6 +4,7 @@ function ServiceForm() {
     return (
         <div className="row" style={{paddingTop:'50px'}}>
         <div className="col-sm-4"></div>
+        <div className="col-sm-4"></div>
         <div className="col-sm-4">
           <div className="card card-container" >
             <Form>
